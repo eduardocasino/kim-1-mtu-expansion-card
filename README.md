@@ -30,6 +30,10 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 See the LICENSE.md file for details.
 
+## Changelog
+#### 04/08/2023
+* Fix solder mask for connectors
+
 ## Acknowledgements
 
 * Hans Otten and his [Retro Computing blog](http://retro.hansotten.nl/). Documentation of MTU's line of hardware expansions for the KIM-1
