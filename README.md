@@ -18,7 +18,7 @@ This is how an example setup with one K-1008 board would look like:
 
 ![setup](https://github.com/eduardocasino/kim-1-mtu-expansion-card/blob/main/images/kim-1-with-k-1008.png?raw=true)
 
-WARNING: I have not yet sent the board to fabrication, so it is untested!
+The board has been built and tested with my [KIM-1](https://github.com/eduardocasino/kim-1) and [K-1008](https://github.com/eduardocasino/k-1008-visable-memory-card-replica) replicas.
 
 ## Licensing
 
