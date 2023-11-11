@@ -31,6 +31,8 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 See the LICENSE.md file for details.
 
 ## Changelog
+#### 11/11/2023
+* Fix solder mask for connectors. For real this time. Damn.
 #### 04/08/2023
 * Fix solder mask for connectors
 
